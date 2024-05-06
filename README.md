@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "DeFi(Empire)" project introduces an ERC20 token, "Oberyn" (OB), and a Vault contract. OB adheres to the ERC20 standard for decentralized transactions, featuring total supply tracking, balance management, and events for transfers and approvals. The Vault contract, interacting with OB through the IERC20 interface, provides a secure platform for users to deposit and withdraw funds, earning shares proportional to their contributions. This forms the basis for secure and transparent decentralized finance activities within the DeFi(Empire) project, enabling users to engage in efficient financial transactions on the blockchain.
+The "DeFi(Empire)" project introduces an ERC20 token, "PRITESH" (P), and a Vault contract. P adheres to the ERC20 standard for decentralized transactions, featuring total supply tracking, balance management, and events for transfers and approvals. The Vault contract, interacting with P through the IERC20 interface, provides a secure platform for users to deposit and withdraw funds, earning shares proportional to their contributions. This forms the basis for secure and transparent decentralized finance activities within the DeFi(Empire) project, enabling users to engage in efficient financial transactions on the blockchain.
 
 ## Prerequisite
 
@@ -13,11 +13,11 @@ The "DeFi(Empire)" project introduces an ERC20 token, "Oberyn" (OB), and a Vault
 
 1. Create Avalanche Subnet
    ```bash
-   avalanche subnet create LIMCA
+   avalanche subnet create ROG
    ```
 2. Deploy Subnet
    ```bash
-   avalanche subnet deploy LIMCA
+   avalanche subnet deploy ROG
    ```
 3. Configure Metamask
 
@@ -34,5 +34,5 @@ The "DeFi(Empire)" project introduces an ERC20 token, "Oberyn" (OB), and a Vault
 
 ## Authors
 
-- Aum Patel
-- GitHub: [https://github.com/Aum2405](https://github.com/Aum2405)
+- Pritesh Patel
+- GitHub: [https://github.com/Pritesh1501](https://github.com/Pritesh1501)
